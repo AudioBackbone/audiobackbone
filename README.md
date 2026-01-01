@@ -2,11 +2,19 @@
 
 AudioBackbone is a personal, analogue-first audio project.
 
-The goal is simple:
-- good sources
-- good placement
-- transparent digital transport
-- no DSP magic
+The idea is simple:
 
-This repository currently contains notes and design ideas.
-There is no roadmap and no deadline.
+- good sources   
+- correct placement  
+- transparent digital transport
+- Ultimate flexibilty in placement of the wireless speakers
+- Multi room low latency capabilities
+
+No DSP enhancement.  
+No psycho-acoustic tricks.  
+No feature inflation.
+
+Digital networking is treated as a cable replacement — not as a sound processor.
+
+AudioBackbone evolves slowly, without deadlines or a fixed roadmap.
+Documentation and design decisions are part of the project.
